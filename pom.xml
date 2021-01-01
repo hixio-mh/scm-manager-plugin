@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>3.43</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>io.jenkins.plugins</groupId>
@@ -219,7 +219,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.10.0</version>
+        <version>2.10.5.1</version>
       </dependency>
 
       <!-- fix require upper bound dependencies error for wiremock -->
